@@ -1,0 +1,29 @@
+.pointer li {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	border-radius: 50% 50% 50% 0;
+	transform: rotate(-45deg);
+	background-color: #4169E1;
+	border: 2px solid black;
+}
+
+.pointer p {
+	transform: rotate(45deg);
+	width: 100px;
+	height: 70px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.pointer a {
+	color: #fff;
+}
+
+.pointer li:hover {
+	background-color: #0000FF;
+}
+
+.pointer li:hover a {
+	color: #49402d;
+}

@@ -1,0 +1,10 @@
+.map {
+	width: 1300px;
+	height:1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/images/map.png);
+    background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+}
